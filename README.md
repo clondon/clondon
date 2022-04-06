@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **clondon/clondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about IT Security
 - 📫 How to reach me: me.charleslondon.online
 - ⚡ Fun fact: I stared my career as a musician.
--->
+
