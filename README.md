@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 ### Current role.
 Senior IT Security analyst - Bedfordshire.
-#### Time in current role: 
 
+#### Time in current role: 
 3 years
 
 #### Time in IT:
