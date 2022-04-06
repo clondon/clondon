@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on the same as above
 - 🤔 I’m looking for help with workflow ideas, IT Security analysis scripts
 - 💬 Ask me about IT Security
-- 📫 How to reach me: me.charleslondon.online
+- 📫 How to reach me: me@charleslondon.online
 - ⚡ Fun fact: I stared my career as a musician.
 
