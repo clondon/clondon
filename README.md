@@ -12,5 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: me@charleslondon.online
 - ⚡ Fun fact: I stared my career as a musician.
 
-### current role.
+### Current role.
 Senior IT Security analyst - Bedfordshire.
+#### Year in current role: 
+3 years
+
+#### Time in IT:
+27 Years
+
+#### Time in IT Security:
+22 Years
