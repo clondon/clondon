@@ -5,7 +5,7 @@
 Currently working on:-
 
 - Automating incident responses systems in Cyber Security defence. 
-- 🔭 I’m currently learnign and woking with Hugo Go, Python, Javascript.
+- 🔭 I’m currently learning and woking with Hugo Go, Python, Javascript.
 - AWS. 
 - AI Specialist Chatbots. (Car maintenence, Cyber buddy).
 - 💬 Ask me about Cyber Security.
