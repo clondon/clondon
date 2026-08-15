@@ -1,27 +1,24 @@
 # ABOUT CHARLES 👋
 
-**clondon/clondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently working on
 
-Currently working on:-
+- Automating incident response systems in Cyber Security defence
+- Building small business websites with Hugo and AWS Amplify
+- AI specialist chatbots (car maintenance, Cyber buddy)
+- 🔭 Learning and working with Hugo (Go templates), Python, JavaScript and AWS
 
-- Automating incident responses systems in Cyber Security defence. 
-- 🔭 I’m currently learning and woking with Hugo Go, Python, Javascript.
-- AWS. 
-- AI Specialist Chatbots. (Car maintenence, Cyber buddy).
-- 💬 Ask me about Cyber Security.
-- 📫 How to reach me: me@charleslondon.online.
-- ⚡ Fun fact: I stared my career as a musician.
+💬 Ask me about Cyber Security
+📫 How to reach me: me@charleslondon.online
+⚡ Fun fact: I started my career as a musician
 
-### Current role.
-Senior  Cyber Security analyst - Bedfordshire.
+## Current role
 
-#### Time in current role: 
-5 years
+Senior Cyber Security Analyst — Bedfordshire
 
-#### Time in IT:
-27 Years
+- Time in current role: 5 years
+- Time in IT Security: 22 years
+- Time in IT: 27 years
 
-#### Time in IT Security:
-22 Years
+## Website
 
-###  [Website:](https://charleslondon.online)
+[charleslondon.online](https://charleslondon.online)
